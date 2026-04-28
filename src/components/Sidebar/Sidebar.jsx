@@ -3,7 +3,7 @@ export default function Sidebar() {
         <aside className="sidebar">
             {/* Avatar */}
             <div className="avatar-wrapper">
-                <img src="profile.png" alt="Saba Batool" />
+                <img src="/portfolio/profile.png" alt="Saba Batool" />
             </div>
 
             <div className="sidebar-name">Saba Batool</div>
